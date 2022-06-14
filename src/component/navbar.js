@@ -1,17 +1,18 @@
 import React from "react";
 import '../css/homepage.css';
+import data from '../constants/constants';
 function Navbar() {
   return (
     <nav class="navbar navbar-expand-lg bg-light" id="navbar">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
-          Homepage
+          {data.navbar.heading}
         </a>
         <button
           class="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
-          data-bs-target="#navbarText"
+          data-bs-target="#navbarText"cle
           aria-controls="navbarText"
           aria-expanded="false"
           aria-label="Toggle navigation"
