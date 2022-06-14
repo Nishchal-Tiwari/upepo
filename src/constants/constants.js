@@ -3,8 +3,8 @@
         navbar:{ 
             heading:"Homepage",
             menu_items:{
-                item1:"",
-                item2:""
+                item1:"menu_item_1",
+                item2:"menu_item_2"
             }
     }
 }

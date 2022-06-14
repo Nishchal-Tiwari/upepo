@@ -1,5 +1,7 @@
 const labels={
-    button_inc:{label:"Increase"}
+    button_inc:{
+        btn1:"Reset",
+        btn2:"Increase"}
 
 };
 export default labels;
