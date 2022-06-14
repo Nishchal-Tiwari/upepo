@@ -1,0 +1,17 @@
+#footer
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.task
+{
+    height: 83vh;
+    padding-top:180px;
+    min-width: 50px;
+}
+#navbar
+{
+    background-color: purple;
+}
